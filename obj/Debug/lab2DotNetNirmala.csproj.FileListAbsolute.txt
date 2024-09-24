@@ -1,7 +1,0 @@
-C:\Users\HP\OneDrive\Desktop\DotNet tech\lab2DotNetNirmala\lab2DotNetNirmala\bin\Debug\lab2DotNetNirmala.exe.config
-C:\Users\HP\OneDrive\Desktop\DotNet tech\lab2DotNetNirmala\lab2DotNetNirmala\bin\Debug\lab2DotNetNirmala.exe
-C:\Users\HP\OneDrive\Desktop\DotNet tech\lab2DotNetNirmala\lab2DotNetNirmala\bin\Debug\lab2DotNetNirmala.pdb
-C:\Users\HP\OneDrive\Desktop\DotNet tech\lab2DotNetNirmala\lab2DotNetNirmala\obj\Debug\lab2DotNetNirmala.csproj.AssemblyReference.cache
-C:\Users\HP\OneDrive\Desktop\DotNet tech\lab2DotNetNirmala\lab2DotNetNirmala\obj\Debug\lab2DotNetNirmala.csproj.CoreCompileInputs.cache
-C:\Users\HP\OneDrive\Desktop\DotNet tech\lab2DotNetNirmala\lab2DotNetNirmala\obj\Debug\lab2DotNetNirmala.exe
-C:\Users\HP\OneDrive\Desktop\DotNet tech\lab2DotNetNirmala\lab2DotNetNirmala\obj\Debug\lab2DotNetNirmala.pdb
